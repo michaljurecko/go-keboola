@@ -1,3 +1,8 @@
+
+**Fork**: Snapshot from `27.09.2024` for portfolio purposes.
+
+----------------------------------------
+
 # Keboola Go Monorepo
 
 ## Overview
